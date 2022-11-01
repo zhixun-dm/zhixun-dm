@@ -35,3 +35,6 @@ My E-mail address is lizhixun1217@gmail.com. Feel free to drop an email to me.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhixun-dm&layout=compact&theme=tokyonight)-->
 
+![Visitor Count](https://profile-counter.glitch.me/zhixun-dm/count.svg)
+
+
