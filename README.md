@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## - 😎 About me
-* Beijing Institute of Technology, B.Eng in Computer Science
-* Institute of Automation, Chinese Academy of Sciences (CASIA), research intern
+I'm currently a research intern at National Laboratory of Pattern Recognition in Insititute of Automation, Chinese Academy of Sciences (CASIA). Before that, I obtained my B.Eng degree in Computer Science from Beijing Institute of Technology (BIT).
 
 ## - 📫 Research on
 * Graph Representation Learning
