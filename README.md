@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## - 😎 About me
-I'm currently incoming PhD student of Chinese University of Hong Kong (CUHK). Before that, I'm a research intern at National Laboratory of Pattern Recognition in Insititute of Automation, Chinese Academy of Sciences (CASIA). Besides, I obtained my B.Eng degree in Computer Science from Beijing Institute of Technology (BIT).
+I'm currently an incoming PhD student of Chinese University of Hong Kong (CUHK). Before that, I'm a research intern at National Laboratory of Pattern Recognition in Insititute of Automation, Chinese Academy of Sciences (CASIA). Besides, I obtained my B.Eng degree in Computer Science from Beijing Institute of Technology (BIT).
 
 ## - 📫 Research on
 * Graph Representation Learning
